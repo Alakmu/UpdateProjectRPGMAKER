@@ -1,3 +1,3 @@
 <version: 1.04>
-/data/Map001.json https://raw.githubusercontent.com/Alakmu/UpdateProjectRPGMAKER/refs/heads/main/Map001.json
+/data/Classes.json https://raw.githubusercontent.com/Alakmu/UpdateProjectRPGMAKER/refs/heads/main/Classes.json
 <End of Version>
