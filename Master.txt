@@ -1,3 +1,4 @@
-<version: 1.05>
+<version: 1.06>
 /data/Skills.json https://raw.githubusercontent.com/Alakmu/UpdateProjectRPGMAKER/refs/heads/main/Skills.json
+/data/CommonEvents.json https://raw.githubusercontent.com/Alakmu/UpdateProjectRPGMAKER/refs/heads/main/CommonEvents.json
 <End of Version>
