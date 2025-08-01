@@ -1,4 +1,5 @@
-<version: 1.12>
-/data/Map001.json https://raw.githubusercontent.com/Alakmu/UpdateProjectRPGMAKER/refs/heads/main/Map001.json
+<version: 1.13>
+/data/Items.json https://raw.githubusercontent.com/Alakmu/UpdateProjectRPGMAKER/refs/heads/main/Items.json
 /data/CommonEvents.json https://raw.githubusercontent.com/Alakmu/UpdateProjectRPGMAKER/refs/heads/main/CommonEvents.json
+/data/Map002.json https://raw.githubusercontent.com/Alakmu/UpdateProjectRPGMAKER/refs/heads/main/Map002.json
 <End of Version>
